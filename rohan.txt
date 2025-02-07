@@ -1,9 +1,13 @@
 I am rohan.
 i am rohan
 
+<<<<<<< HEAD
 
 
 Pull tests with rohan's code
 
 
 change in code for rohan by rohan
+=======
+Hello
+>>>>>>> 760fda1dd12c8ef1f40afd399203e52d4f767cee
